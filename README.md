@@ -24,4 +24,6 @@ CSS3
 This project is made purely for learning and practice purposes, focusing on improving frontend skills and replicating real-world UI designs.
 
 📷 Preview:
-(Add screenshot or GIF link here)
+https://pathrabe2416.github.io/timepass/
+
+<img width="1920" height="3309" alt="Screenshot 2025-08-15 at 19-21-05 Netflix India" src="https://github.com/user-attachments/assets/db656e7e-2dc3-4255-9575-234a26d02621" />
